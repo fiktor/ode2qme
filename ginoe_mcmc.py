@@ -2,6 +2,8 @@
 
 Here GinOE-stable refers to the GinOE (Ginibre Orthogonal Ensemble)
 conditioned on the real part of all eigenvalues being positive.
+
+SPDX-License-Identifier: GPL-3.0-or-later
 """
 
 import math
